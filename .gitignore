@@ -1,0 +1,8 @@
+#Ignoring secrets in env 
+.env
+
+#Ignoring local chromadb
+anti_examples_db/
+
+.ipynb_checkpoints/
+__pycache__
