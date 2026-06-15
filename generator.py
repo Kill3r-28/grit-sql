@@ -1,7 +1,6 @@
 import os
 import requests
 import chromadb
-import requests
 from dotenv import load_dotenv
 
 #loading the hidden api key from .env file
